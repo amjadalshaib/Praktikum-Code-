@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>import_icon.png</file>
+        <file>search.png</file>
+        <file>pngtree-vector-save-icon-png-image_322173.jpg</file>
+    </qresource>
+    <qresource prefix="/pic">
+        <file>Flug.png</file>
+        <file>Car.jpeg</file>
+        <file>Hotel.png</file>
+        <file>Zug.png</file>
+    </qresource>
+    <qresource prefix="/read">
+        <file>iatacodes.json</file>
+    </qresource>
+</RCC>
